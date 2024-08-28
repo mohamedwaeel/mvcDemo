@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "6dA0OorYg5xhTglhO1XjwSvXtlO99P3re2depR9IXZc=",
+  "Source": "MvcDemo",
+  "BasePath": "_content/MvcDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcDemo\\wwwroot",
+      "Source": "MvcDemo",
+      "ContentRoot": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\",
+      "BasePath": "_content/MvcDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "MvcDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\",
+      "BasePath": "_content/MvcDemo",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "MvcDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\",
+      "BasePath": "_content/MvcDemo",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "MvcDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\backend\\C#\\mvc\\MvcDemo\\wwwroot\\",
+      "BasePath": "_content/MvcDemo",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}
